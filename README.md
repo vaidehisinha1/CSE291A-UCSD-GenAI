@@ -1,6 +1,6 @@
 # CSE291A-UCSD-GenAI
 
-This repository contains Jupyter Notebooks for exploring Generative AI in medical diagnostics, specifically using chest X-ray images for the detection of pneumonia. It covers state-of-the-art generative modeling (GANs), classifier training, and explainability methods, with thorough experimentation including ablation studies on model architecture.
+This repository contains Jupyter Notebooks for exploring Generative AI in medical diagnostics, using chest X-ray images for the detection of pneumonia. It covers state-of-the-art generative modeling (GANs), classifier training, and explainability methods, with thorough experimentation including ablation studies on model architecture.
 
 ---
 
